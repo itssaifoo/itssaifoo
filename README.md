@@ -1,8 +1,11 @@
-<h1 align="center">Hi ,I'm Saif!👋</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saifalrawahisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifalrawahisr" height="30" width="40" /></a>
-</p>
+# Hi, I'm [Your Name]! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## About Me 🚀
+I'm driven by a passion for continuous Learning and personal growth. I strive to expand my knowledge each day, both in my carrer development and in broader aspects of life, to become a better version of myself.
+
+
+- 🌱 Currently learning: Programming
+
+
+## Get in Touch 📬
+- **[LinkedIn]**(www.linkedin.com/in/saifalrawahisr)
